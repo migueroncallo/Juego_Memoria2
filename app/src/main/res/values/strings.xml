@@ -4,6 +4,10 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="Win">GANASTE!</string>
+    <string name="puntaje">Puntaje: </string>
+    <string name="history">Historial</string>
+    <string name="historial"># de juegos: </string>
+    <string name="back">Back</string>
     <string name="button1">1</string>
     <string name="button2">2</string>
     <string name="button3">3</string>
@@ -21,4 +25,5 @@
     <string name="button15">2</string>
     <string name="button16">1</string>
     <string name="restart">Restart</string>
+    <string name="title_activity_historial">Historial</string>
 </resources>

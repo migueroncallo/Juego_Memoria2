@@ -18,11 +18,18 @@
             android:text="Restart"
             android:id="@+id/restart" />
 
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/history"
+            android:id="@+id/historial" />
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Parejas: 0"
             android:id="@+id/textView" />
+
     </LinearLayout>
 
     <LinearLayout
